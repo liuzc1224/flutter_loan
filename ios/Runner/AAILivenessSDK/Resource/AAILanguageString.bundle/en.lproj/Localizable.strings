@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  AAILivenessDemo
+
+  Created by Advance.ai on 2019/2/22.
+  Copyright © 2019 Advance.ai. All rights reserved.
+*/
+"pls_blink" = "Please blink";
+"pls_open_mouth" = "Please open your mouth and then close";
+"pls_turn_head" = "Please turn head left or right (<30 degrees)";
+"pls_hold_phone_v" = "Please hold the phone upright";
+"low_light" = "Find a brighter place";
+"high_light" = "Find a darker place";
+"no_camera_permission" = "Camera is not turned on, please turn on camera permissions";
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+"try_again" = "Please try again";
+"detection_success" = "Liveness detection succeed";
+"move_center" = "Please move your face to the center of the face frame";
+"stay_still" = "Please stay still and start testing";
+"frontal" = "Please look straight at the screen";
+"detection_fail" = "Liveness detection failed, please try again";
+"time_out" = "Time out";
+"no_face" = "Please put your face into the frame";
+"auth_check" = "Please Wait";
+"move_closer" = "Please move your face closer to the screen";
+"move_further" = "Please move your face further away from the screen";
+
+"fail_reason_timeout" = "Time out,\n please follow the instructions";
+"fail_reason_facemiss_blink_mouth" = "No face detected,\n please avoid fast motion and find a brighter place";
+"fail_reason_facemiss_pos_yaw" = "No face detected,\n please avoid fast motion and large head shake (> 45 degrees)";
+"fail_reason_muti_face" = "Multiple faces detected";
+"fail_reason_auth_failed" = "Authorization failed, please check network";
+"fail_reason_bad_network" = "Please check network";
+"fail_reason_much_action" = "Multiple motions detected";

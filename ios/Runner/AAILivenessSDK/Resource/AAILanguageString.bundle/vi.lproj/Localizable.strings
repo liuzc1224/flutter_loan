@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  AAILivenessDemo
+
+  Created by Advance.ai on 2019/2/22.
+  Copyright © 2019 Advance.ai. All rights reserved.
+*/
+"pls_blink" = "Xin vui lòng chớp mắt";
+"pls_open_mouth" = "Xin vui lòng mở miệng, sau đó đóng miệng lại";
+"pls_turn_head" = "Vui lòng quay đầu sang phải hoặc trái (<30°)";
+"pls_hold_phone_v" = "Xin vui lòng giữ điện thoại thẳng đứng";
+"low_light" = "Xin vui lòng tìm nơi có ánh sáng tốt hơn";
+"high_light" = "Xin vui lòng tìm một nơi tối hơn";
+"no_camera_permission" = "Máy ảnh chưa được bật, vui lòng bật quyền sử dụng máy ảnh";
+"Yes" = "Xác định";
+"Cancel" = "Huỷ bỏ";
+"try_again" = "Vui lòng thử lại";
+"detection_success" = "Nhận dạng thành công";
+"move_center" = "Xin vui lòng di chuyển mặt của bạn đến giữa khung hình";
+"stay_still" = "Xin vui lòng không di chuyển và bắt đầu kiểm tra";
+"frontal" = "Xin vui lòng nhìn thẳng vào màn hình";
+"detection_fail" = "Nhận dạng thất bại，vui lòng thử lại";
+"time_out" = "Hết thời gian";
+"no_face" = "Hãy giữ mặt của bạn vào trong khung hình";
+"auth_check" = "Xin vui lòng đợi";
+"move_closer" = "Xin vui lòng di chuyển mặt của bạn đến gần màn hình hơn";
+"move_further" = "Xin vui lòng di chuyển mặt của bạn xa khỏi màn hình";
+
+"fail_reason_timeout" = "Hành động đã hết thời gian.\nVui lòng làm theo hướng dẫn để hoàn thành nhận diện";
+"fail_reason_facemiss_blink_mouth" = "Không nhận diện được khuôn mặt,\n xin đừng di chuyển quá nhanh, đồng thời tìm nơi có ánh sáng tốt hơn";
+"fail_reason_facemiss_pos_yaw" = "Không nhận diện được khuôn mặt,\n xin đừng quay đầu quá nhanh và góc quay quá lớn (> 45°)";
+"fail_reason_muti_face" = "Phát hiện nhiều khuôn mặt";
+"fail_reason_auth_failed" = "Ủy quyền không thành công, xin vui lòng kiểm tra kết nối mạng";
+"fail_reason_bad_network" = "Vui lòng kiểm tra kết nối mạng";
+"fail_reason_much_action" = "Phát hiện nhiều chuyển động";

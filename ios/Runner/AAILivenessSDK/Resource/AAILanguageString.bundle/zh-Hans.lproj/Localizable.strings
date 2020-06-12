@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  AAILivenessDemo
+
+  Created by Advance.ai on 2019/2/22.
+  Copyright © 2019 Advance.ai. All rights reserved.
+*/
+"pls_blink" = "请眨眼";
+"pls_open_mouth" = "请张嘴，然后合拢";
+"pls_turn_head" = "请左右缓慢摇头（<30°）";
+"pls_hold_phone_v" = "请竖直手机";
+"low_light" = "请让光线再亮点";
+"high_light" = "请让光线再暗点";
+"no_camera_permission" = "未开启摄像头，请开启相机权限";
+"Yes" = "确定";
+"Cancel" = "取消";
+"try_again" = "再试一次";
+"detection_success" = "活体检测成功";
+"move_center" = "请把脸移到人脸框中央";
+"stay_still" = "请保持静止，然后开始检测";
+"frontal" = "请把脸正对屏幕";
+"detection_fail" = "活体检测失败，请重试";
+"time_out" = "超时";
+"no_face" = "请将人脸放在人像框内";
+"auth_check" = "请稍候";
+"move_closer" = "请把脸再靠近屏幕一些";
+"move_further" = "请把脸再远离屏幕一些";
+
+"fail_reason_timeout" = "动作超时，请根据屏幕提示完成活体检测";
+"fail_reason_facemiss_blink_mouth" = "未检测到人脸，请勿做动作太快和找光线好的地方做活体检测";
+"fail_reason_facemiss_pos_yaw" = "未检测到人脸，请勿摇头太快和角度过大(>45°）";
+"fail_reason_muti_face" = "检测到多张人脸";
+"fail_reason_auth_failed" = "授权失败，请检查网络";
+"fail_reason_bad_network" = "请检测网络";
+"fail_reason_much_action" = "检测到多个动作";

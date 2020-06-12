@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  AAILivenessDemo
+
+  Created by Advance.ai on 2019/2/22.
+  Copyright © 2019 Advance.ai. All rights reserved.
+*/
+"pls_blink" = "Silakan berkedip";
+"pls_open_mouth" = "Mohon buka dan tutup mulut Anda";
+"pls_turn_head" = "Silakan tengok kiri atau kanan (<30 derajat)";
+"pls_hold_phone_v" = "Mohon pegang telepon dengan tegak";
+"low_light" = "Mohon temukan tempat yang lebih terang";
+"high_light" = "Mohon temukan tempat yang lebih gelap";
+"no_camera_permission" = "Kamera tidak dinyalakan, silakan aktifkan izin menyalakan kamera";
+"Yes" = "Oke";
+"Cancel" = "Batalkan";
+"try_again" = "Silakan coba lagi";
+"detection_success" = "Deteksi liveness sukses";
+"move_center" = "Sesuaikan wajah Anda ke tengah bingkai yang tersedia";
+"stay_still" = "Jangan bergerak dan mulai pengecekan";
+"frontal" = "Mohon lihat lurus ke layar";
+"detection_fail" = "Deteksi Liveness gagal, silakan coba lagi";
+"time_out" = "Waktu habis";
+"no_face" = "Silakan masukkan wajah Anda dalam bingkai";
+"auth_check" = "Mohon Tunggu";
+"move_closer" = "Silakan dekatkan wajah Anda ke layar";
+"move_further" = "Silakan gerakkan wajah Anda lebih jauh dari layar";
+
+"fail_reason_timeout" = "Waktu habis, silakan ikuti instruksi";
+"fail_reason_facemiss_blink_mouth" = "Wajah tidak terdeteksi, jangan bergerak terlalu cepat dan cari tempat dengan cahaya yang cukup";
+"fail_reason_facemiss_pos_yaw" = "Wajah tidak terdeteksi, jangan bergerak terlalu cepat dan guncangkan kepala berlebihan (> 45 derajat)";
+"fail_reason_muti_face" = "Beberapa wajah terdeteksi";
+"fail_reason_auth_failed" = "Otorisasi gagal, mohon cek jaringan Anda";
+"fail_reason_bad_network" = "Mohon cek jaringan Anda";
+"fail_reason_much_action" = "Banyak gerakan terdeteksi";

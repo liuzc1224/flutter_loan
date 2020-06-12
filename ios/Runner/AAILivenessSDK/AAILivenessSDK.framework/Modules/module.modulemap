@@ -1,0 +1,6 @@
+framework module AAILivenessSDK {
+  umbrella header "AAILivenessSDK.h"
+
+  export *
+  module * { export * }
+}
