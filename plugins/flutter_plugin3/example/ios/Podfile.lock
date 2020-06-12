@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterplugin3 (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterplugin3 (from `.symlinks/plugins/flutterplugin3/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterplugin3:
+    :path: ".symlinks/plugins/flutterplugin3/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterplugin3: 4b3459c302ca473092b86442f2ff4c19817c36a4
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.9.1
